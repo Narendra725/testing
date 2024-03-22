@@ -17,5 +17,7 @@ you have ceated the feature branch).
 
 suppose that you have two feature branches and you updated a file in feature1 branch and you want to create a pull request from feature1 branch to feature2 branch will it work?
 
+this is the line added from the feature2 branch.....
+
 
 

@@ -21,9 +21,9 @@ Yes , ofcourse it will
 
 Suppose that we have 20 branches in a repository , and one of the branches have done the changes,how does one knows if there are any changes in the repository ?
 
+If a change is made in any of the branches you would see the highlighting sayiong that there are changes from this branch as shown .....
 
 new line from main
-If a change is made in any of the branches you would see the highlighting sayiong that there are changes from this branch as shown ....
 
-
+new line from feature1
 

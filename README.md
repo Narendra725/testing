@@ -52,4 +52,7 @@ findings:
      --> when you try to merge the changes in with the main branch by opening the pull request, there were no conflicts.
      meanwhile i have raised the pull request from fbranch2 and ofcourse got the same notifications like earlier
      But when i opened the pul request to merge the changes there was a conflict which i had to manually choose which changes should be there in the main branch.
+
+
+     KJSNfijan
      

@@ -25,5 +25,11 @@ If a change is made in any of the branches you would see the highlighting sayion
 
 new line from main
 
-new line from feature1
+new line from feature
 
+
+test :
+
+1. create two feature branches from main branch.
+2. make the changes in fbranch 1 and also in fbranch 2.
+3. push the changes to main from both the branches and write the comments below.

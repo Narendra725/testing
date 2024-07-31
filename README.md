@@ -36,23 +36,31 @@ test :
 
 
 
-process:
-    --> changes from fbranch1.
-    
-    --> changes from fbranch2
+# process :
+--> changes from fbranch1.
+
+--> changes from fbranch2
 
 
 
-findings:
-     done the changes from fbranch1 and fbranch2.
-     created a pull request to main branch from both the branches.
-     when first opened a pull request from fbranch1 ,there were no conflicts and there were notifications while creating a pull request saying that there has been changes in the 
-     feature branches to the main branches ,so compare them and pull the changes before raising the merge request.
-     there you will have an option to compare two branches and merge before raising the pull request.
-     --> when you try to merge the changes in with the main branch by opening the pull request, there were no conflicts.
-     meanwhile i have raised the pull request from fbranch2 and ofcourse got the same notifications like earlier
-     But when i opened the pul request to merge the changes there was a conflict which i had to manually choose which changes should be there in the main branch.
+# findings :
+
+done the changes from fbranch1 and fbranch2.
+
+created a pull request to main branch from both the branches.
+
+when first opened a pull request from fbranch1 ,there were no conflicts and there were notifications while creating
+
+a pull request saying that there has been changes in the 
+
+feature branches to the main branches ,so compare them and pull the changes before raising the merge request.
+
+there you will have an option to compare two branches and merge before raising the pull request.
+
+--> when you try to merge the changes in with the main branch by opening the pull request, there were no conflicts.
+
+meanwhile i have raised the pull request from fbranch2 and ofcourse got the same notifications like earlier
+
+But when i opened the pul request to merge the changes there was a conflict which i had to manually choose which changes should be there in the main branch.
 
 
-     KJSNfijan
-     

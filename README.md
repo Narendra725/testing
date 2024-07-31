@@ -36,20 +36,22 @@ test :
 
 
 
-process:
+# process
     --> changes from fbranch1.
     
     --> changes from fbranch2
 
 
 
-findings:
+# findings
 
      done the changes from fbranch1 and fbranch2.
      
      created a pull request to main branch from both the branches.
      
-     when first opened a pull request from fbranch1 ,there were no conflicts and there were notifications while creating a pull request saying that there has been changes in the 
+     when first opened a pull request from fbranch1 ,there were no conflicts and there were notifications while creating
+     
+     a pull request saying that there has been changes in the 
      
      feature branches to the main branches ,so compare them and pull the changes before raising the merge request.
      

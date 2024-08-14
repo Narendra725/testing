@@ -65,3 +65,6 @@ But when i opened the pul request to merge the changes there was a conflict whic
 
 changes from local
 changes from local 2
+
+changes from local 3
+

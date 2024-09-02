@@ -63,4 +63,8 @@ meanwhile i have raised the pull request from fbranch2 and ofcourse got the same
 
 But when i opened the pul request to merge the changes there was a conflict which i had to manually choose which changes should be there in the main branch.
 
+changes from local
+changes from local 2
+
+changes from local 4
 
